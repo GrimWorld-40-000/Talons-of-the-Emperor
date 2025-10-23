@@ -103,13 +103,13 @@
 			<HP_Auramite>10</HP_Auramite>
 		</costList>
 		<statBases>
-			<WorkToMake>60000</WorkToMake>
+			<WorkToMake>40000</WorkToMake>
 			<MaxHitPoints>650</MaxHitPoints>
 			<MarketValue>1000</MarketValue>
 			<Mass>2</Mass>
 			<ArmorRating_Sharp>1.30</ArmorRating_Sharp>
 			<ArmorRating_Blunt>0.55</ArmorRating_Blunt>
-			<ArmorRating_Heat>0.67</ArmorRating_Heat>
+			<ArmorRating_Heat>0.70</ArmorRating_Heat>
 			<Insulation_Cold>8</Insulation_Cold>
 			<Insulation_Heat>4</Insulation_Heat>
 			<EquipDelay>2</EquipDelay>
@@ -177,13 +177,13 @@
 			<HP_Auramite>10</HP_Auramite>
 		</costList>
 		<statBases>
-			<WorkToMake>60000</WorkToMake>
+			<WorkToMake>40000</WorkToMake>
 			<MaxHitPoints>650</MaxHitPoints>
 			<MarketValue>1000</MarketValue>
 			<Mass>2</Mass>
 			<ArmorRating_Sharp>1.30</ArmorRating_Sharp>
 			<ArmorRating_Blunt>0.55</ArmorRating_Blunt>
-			<ArmorRating_Heat>0.67</ArmorRating_Heat>
+			<ArmorRating_Heat>0.70</ArmorRating_Heat>
 			<Insulation_Cold>8</Insulation_Cold>
 			<Insulation_Heat>4</Insulation_Heat>
 			<EquipDelay>2</EquipDelay>
@@ -252,11 +252,11 @@
 			<HP_Auramite>20</HP_Auramite>
 		</costList>
 		<statBases>
-			<WorkToMake>75000</WorkToMake>
+			<WorkToMake>60000</WorkToMake>
 			<MaxHitPoints>750</MaxHitPoints>
 			<MarketValue>1500</MarketValue>
 			<Mass>2</Mass>
-			<ArmorRating_Sharp>1.35</ArmorRating_Sharp>
+			<ArmorRating_Sharp>1.40</ArmorRating_Sharp>
 			<ArmorRating_Blunt>0.60</ArmorRating_Blunt>
 			<ArmorRating_Heat>0.72</ArmorRating_Heat>
 			<Insulation_Cold>8</Insulation_Cold>
@@ -305,9 +305,11 @@
 		<equippedStatOffsets>
 			<MentalBreakThreshold>-0.08</MentalBreakThreshold>
 			<PainShockThreshold>0.05</PainShockThreshold>
-			<ToxicEnvironmentResistance>0.75</ToxicEnvironmentResistance>
+			<ToxicEnvironmentResistance>0.90</ToxicEnvironmentResistance>
 			<DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
 			<HypoxiaResistance MayRequire="kentington.saveourship2">1</HypoxiaResistance>
+			<AimingTime>0.9</AimingTime>
+			<ReloadTime>0.9</ReloadTime>
 		</equippedStatOffsets>
 		<costList>
 			<ComponentSpacer>6</ComponentSpacer>
@@ -317,11 +319,11 @@
 			<HP_Auramite>20</HP_Auramite>
 		</costList>
 		<statBases>
-			<WorkToMake>75000</WorkToMake>
+			<WorkToMake>50000</WorkToMake>
 			<MaxHitPoints>750</MaxHitPoints>
 			<MarketValue>1500</MarketValue>
 			<Mass>2</Mass>
-			<ArmorRating_Sharp>1.35</ArmorRating_Sharp>
+			<ArmorRating_Sharp>1.50</ArmorRating_Sharp>
 			<ArmorRating_Blunt>0.60</ArmorRating_Blunt>
 			<ArmorRating_Heat>0.72</ArmorRating_Heat>
 			<Insulation_Cold>8</Insulation_Cold>
@@ -383,6 +385,10 @@
 		<equippedStatOffsets>
 			<AimingDelayFactor>-0.3</AimingDelayFactor>
 			<SocialImpact>1.00</SocialImpact>
+			<MoveSpeed>.2</MoveSpeed>
+			<ToxicEnvironmentResistance>0.90</ToxicEnvironmentResistance>
+			<DecompressionResistance MayRequire="kentington.saveourship2">0.75</DecompressionResistance>
+			<HypoxiaResistance MayRequire="kentington.saveourship2>">0.75</HypoxiaResistance>
 		</equippedStatOffsets>
 		<costList>
 			<ComponentSpacer>10</ComponentSpacer>
@@ -396,7 +402,7 @@
 			<HP_Auramite>30</HP_Auramite>
 		</costList>
 		<statBases>
-			<WorkToMake>60000</WorkToMake>
+			<WorkToMake>50000</WorkToMake>
 			<MaxHitPoints>2500</MaxHitPoints>
 			<Mass>2</Mass>
 			<ArmorRating_Sharp>3.00</ArmorRating_Sharp>
@@ -467,13 +473,13 @@
 			<HP_Auramite>15</HP_Auramite>
 		</costList>
 		<statBases>
-			<WorkToMake>70000</WorkToMake>
+			<WorkToMake>60000</WorkToMake>
 			<MaxHitPoints>700</MaxHitPoints>
 			<MarketValue>1200</MarketValue>
 			<Mass>2</Mass>
-			<ArmorRating_Sharp>1.35</ArmorRating_Sharp>
-			<ArmorRating_Blunt>0.58</ArmorRating_Blunt>
-			<ArmorRating_Heat>0.70</ArmorRating_Heat>
+			<ArmorRating_Sharp>1.45</ArmorRating_Sharp>
+			<ArmorRating_Blunt>0.60</ArmorRating_Blunt>
+			<ArmorRating_Heat>0.75</ArmorRating_Heat>
 			<Insulation_Cold>8</Insulation_Cold>
 			<Insulation_Heat>4</Insulation_Heat>
 			<EquipDelay>2</EquipDelay>
@@ -518,6 +524,7 @@
 			<ToxicEnvironmentResistance>0.75</ToxicEnvironmentResistance>
 			<DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
 			<HypoxiaResistance MayRequire="kentington.saveourship2">1</HypoxiaResistance>
+			<sight>1.1</sight>
 		</equippedStatOffsets>
 		<costList>
 			<ComponentIndustrial>12</ComponentIndustrial>
@@ -594,6 +601,9 @@
 			<ToxicEnvironmentResistance>0.75</ToxicEnvironmentResistance>
 			<DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
 			<HypoxiaResistance MayRequire="kentington.saveourship2">1</HypoxiaResistance>
+			<sight>1.1</sight>
+			<AimingTime>0.7</AimingTime>
+			<MoveSpeed>
 		</equippedStatOffsets>
 		<costList>
 			<ComponentIndustrial>12</ComponentIndustrial>
@@ -668,6 +678,8 @@
 			<ToxicEnvironmentResistance>0.75</ToxicEnvironmentResistance>
 			<DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
 			<HypoxiaResistance MayRequire="kentington.saveourship2">1</HypoxiaResistance>
+			<PsychicSensitivity>-0.2</PsychicSensitivity>
+			<MoveSpeed>0.2</MoveSpeed>
 		</equippedStatOffsets>
 		<costList>
 			<ComponentIndustrial>10</ComponentIndustrial>
@@ -681,11 +693,12 @@
 			<MaxHitPoints>750</MaxHitPoints>
 			<MarketValue>1500</MarketValue>
 			<Mass>2</Mass>
-			<ArmorRating_Sharp>1.05</ArmorRating_Sharp>
+			<ArmorRating_Sharp>1.20</ArmorRating_Sharp>
 			<ArmorRating_Blunt>0.47</ArmorRating_Blunt>
 			<ArmorRating_Heat>0.62</ArmorRating_Heat>
 			<Insulation_Cold>6</Insulation_Cold>
 			<Insulation_Heat>5</Insulation_Heat>
+			<PsychicSensitivity>-0.2</PsychicSensitivity>
 			<EquipDelay>2</EquipDelay>
 		</statBases>
 		<recipeMaker>
@@ -744,6 +757,8 @@
 			<ToxicEnvironmentResistance>0.75</ToxicEnvironmentResistance>
 			<DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
 			<HypoxiaResistance MayRequire="kentington.saveourship2">1</HypoxiaResistance>
+			<PsychicSensitivity>-0.2</PsychicSensitivity>
+			<MoveSpeed>0.2</MoveSpeed>
 		</equippedStatOffsets>
 		<costList>
 			<ComponentIndustrial>10</ComponentIndustrial>
@@ -762,6 +777,7 @@
 			<ArmorRating_Heat>0.62</ArmorRating_Heat>
 			<Insulation_Cold>6</Insulation_Cold>
 			<Insulation_Heat>5</Insulation_Heat>
+			<PsychicSensitivity>-0.2</PsychicSensitivity>
 			<EquipDelay>2</EquipDelay>
 		</statBases>
 		<recipeMaker>
@@ -833,7 +849,7 @@
 			<HP_Auramite>50</HP_Auramite>
 		</costList>
 		<statBases>
-			<WorkToMake>60000</WorkToMake>
+			<WorkToMake>50000</WorkToMake>
 			<MaxHitPoints>2500</MaxHitPoints>
 			<Mass>2</Mass>
 			<ArmorRating_Sharp>3.00</ArmorRating_Sharp>

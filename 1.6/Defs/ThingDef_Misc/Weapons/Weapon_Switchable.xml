@@ -108,7 +108,7 @@
 			<texPath>Things/Weapons/SpearBolter</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>Cutout</shaderType>
-			<!-- <drawSize>1.0</drawSize> -->
+			<!-- <drawSize>1.5</drawSize> -->
 		</graphicData>
 		<comps>
 			<li Class="WeaponSwitch.CompProperties_SwitchWeapon">

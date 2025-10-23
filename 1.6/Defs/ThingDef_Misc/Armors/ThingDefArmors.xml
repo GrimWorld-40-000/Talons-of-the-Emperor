@@ -110,13 +110,13 @@
             <researchPrerequisite>GW_TotE_CustodesGuard</researchPrerequisite>
         </recipeMaker>
         <statBases>
-			<WorkToMake>90000</WorkToMake>
+			<WorkToMake>50000</WorkToMake>
 			<MaxHitPoints>700</MaxHitPoints>
 			<Mass>11.0</Mass>
 			<Flammability>0.0</Flammability>
-			<ArmorRating_Sharp>1.30</ArmorRating_Sharp>
-			<ArmorRating_Blunt>0.65</ArmorRating_Blunt>
-			<ArmorRating_Heat>0.80</ArmorRating_Heat>
+			<ArmorRating_Sharp>1.50</ArmorRating_Sharp>
+			<ArmorRating_Blunt>0.70</ArmorRating_Blunt>
+			<ArmorRating_Heat>0.75</ArmorRating_Heat>
 			<Insulation_Cold>40</Insulation_Cold>
 			<Insulation_Heat>14</Insulation_Heat>
 			<EquipDelay>15</EquipDelay>
@@ -134,6 +134,8 @@
 			<PawnBeauty>50</PawnBeauty>
 			<InjuryHealingFactor>0.15</InjuryHealingFactor>
 			<PainShockThreshold>0.05</PainShockThreshold>
+			<SocialImpact>0.05</SocialImpact>
+			<IncomingDamageMultiplier>0.85</IncomingDamageMultiplier>
 		</equippedStatOffsets>
 		<apparel>
 			<wornGraphicPath>Things/CustodesArmors/Custodes/CGuard_torso</wornGraphicPath>
@@ -166,13 +168,13 @@
             <researchPrerequisite>GW_TotE_CustodesGuard</researchPrerequisite>
         </recipeMaker>
         <statBases>
-			<WorkToMake>90000</WorkToMake>
+			<WorkToMake>5000</WorkToMake>
 			<MaxHitPoints>700</MaxHitPoints>
 			<Mass>11.0</Mass>
 			<Flammability>0.0</Flammability>
-			<ArmorRating_Sharp>1.30</ArmorRating_Sharp>
-			<ArmorRating_Blunt>0.65</ArmorRating_Blunt>
-			<ArmorRating_Heat>0.80</ArmorRating_Heat>
+			<ArmorRating_Sharp>1.50</ArmorRating_Sharp>
+			<ArmorRating_Blunt>0.70</ArmorRating_Blunt>
+			<ArmorRating_Heat>0.85</ArmorRating_Heat>
 			<Insulation_Cold>40</Insulation_Cold>
 			<Insulation_Heat>14</Insulation_Heat>
 			<EquipDelay>15</EquipDelay>
@@ -190,6 +192,8 @@
 			<PawnBeauty>50</PawnBeauty>
 			<MentalBreakThreshold>-0.05</MentalBreakThreshold>
 			<InjuryHealingFactor>0.15</InjuryHealingFactor>
+			<SocialImpact>0.05</SocialImpact>
+			<IncomingDamageMultiplier>0.85</IncomingDamageMultiplier>
 		</equippedStatOffsets>
 		<apparel>
 			<wornGraphicPath>Things/CustodesArmors/Custodes/Warden_torso</wornGraphicPath>
@@ -222,12 +226,12 @@
             <researchPrerequisite>GW_TotE_Allarus</researchPrerequisite>
         </recipeMaker>
         <statBases>
-			<WorkToMake>100000</WorkToMake>
+			<WorkToMake>60000</WorkToMake>
 			<MaxHitPoints>750</MaxHitPoints>
 			<Mass>13.0</Mass>
 			<Flammability>0.0</Flammability>
-			<ArmorRating_Sharp>1.37</ArmorRating_Sharp>
-			<ArmorRating_Blunt>0.67</ArmorRating_Blunt>
+			<ArmorRating_Sharp>1.60</ArmorRating_Sharp>
+			<ArmorRating_Blunt>0.70</ArmorRating_Blunt>
 			<ArmorRating_Heat>0.90</ArmorRating_Heat>
 			<Insulation_Cold>40</Insulation_Cold>
 			<Insulation_Heat>14</Insulation_Heat>
@@ -246,7 +250,9 @@
 		<equippedStatOffsets>
 			<VEF_MassCarryCapacity>50</VEF_MassCarryCapacity>
 			<PainShockThreshold>0.07</PainShockThreshold>
-			<MoveSpeed>-0.35</MoveSpeed>
+			<MoveSpeed>-0.50</MoveSpeed>
+			<SocialImpact>0.1</SocialImpact>
+			<PawnBeauty>50</PawnBeauty>
 		</equippedStatOffsets>
 		<apparel>
 			<wornGraphicPath>Things/CustodesArmors/Allarus/Allarus_torso</wornGraphicPath>
@@ -287,12 +293,12 @@
             <researchPrerequisite>GW_TotE_Castellan</researchPrerequisite>
         </recipeMaker>
         <statBases>
-			<WorkToMake>135000</WorkToMake>
+			<WorkToMake>80000</WorkToMake>
 			<MaxHitPoints>800</MaxHitPoints>
 			<MarketValue>4800</MarketValue>
 			<Mass>11.0</Mass>
 			<Flammability>0.0</Flammability>
-			<ArmorRating_Sharp>1.4</ArmorRating_Sharp>
+			<ArmorRating_Sharp>1.55</ArmorRating_Sharp>
 			<ArmorRating_Blunt>0.80</ArmorRating_Blunt>
 			<ArmorRating_Heat>1.00</ArmorRating_Heat>
 			<Insulation_Cold>38</Insulation_Cold>
@@ -311,6 +317,8 @@
 			<InjuryHealingFactor>1.25</InjuryHealingFactor>
 			<MentalBreakThreshold>-0.08</MentalBreakThreshold>
 			<PainShockThreshold>0.1</PainShockThreshold>
+			<SocialImpact>0.15</SocialImpact>
+			<PawnBeauty>50</PawnBeauty>	
 		</equippedStatOffsets>
 		<apparel>
 			<wornGraphicPath>Things/CustodesArmors/Castellan Plate/CastellanPlate_torso</wornGraphicPath>
@@ -351,20 +359,22 @@
             <researchPrerequisite>GW_TotE_CustodesGuard</researchPrerequisite>
         </recipeMaker>
         <statBases>
-			<WorkToMake>72000</WorkToMake>
+			<WorkToMake>60000</WorkToMake>
 			<MaxHitPoints>800</MaxHitPoints>
 			<MarketValue>4800</MarketValue>
 			<Mass>11.0</Mass>
 			<Flammability>0.0</Flammability>
-			<ArmorRating_Sharp>1.20</ArmorRating_Sharp>
-			<ArmorRating_Blunt>0.49</ArmorRating_Blunt>
+			<ArmorRating_Sharp>1.30</ArmorRating_Sharp>
+			<ArmorRating_Blunt>0.50</ArmorRating_Blunt>
 			<ArmorRating_Heat>0.62</ArmorRating_Heat>
 			<Insulation_Cold>34</Insulation_Cold>
 			<Insulation_Heat>12</Insulation_Heat>
 			<EquipDelay>15</EquipDelay>
+			<PsychicSensitivity>-1.00</PsychicSensitivity>
+			<PsychicSensitivity>-.80</PsychicSensitivity>
 		</statBases>
 		<costList>
-			<ComponentSpacer>3</ComponentSpacer>
+			<ComponentSpacer>2</ComponentSpacer>
 			<GW_ComponentRelic>1</GW_ComponentRelic>
 			<Plasteel>175</Plasteel>
 			<HP_Ceramite>140</HP_Ceramite>
@@ -374,7 +384,8 @@
 		<equippedStatOffsets Inherit="false">			
 			<VEF_MassCarryCapacity>50</VEF_MassCarryCapacity>
 			<PawnBeauty>50</PawnBeauty>
-			<MoveSpeed>0.15</MoveSpeed>
+			<MoveSpeed>0.50</MoveSpeed>
+			<PsychicSensitivity>-.80</PsychicSensitivity>
 		</equippedStatOffsets>
 		<apparel>
 			<wornGraphicPath>Things/CustodesArmors/SisterofSilence/CustodesSOS</wornGraphicPath>
@@ -429,14 +440,14 @@
             <researchPrerequisite>GW_TotE_CustodesGuard</researchPrerequisite>
         </recipeMaker>
         <statBases>
-			<WorkToMake>90000</WorkToMake>
+			<WorkToMake>50000</WorkToMake>
 			<MaxHitPoints>700</MaxHitPoints>
 			<MarketValue>4200</MarketValue>
 			<Mass>11.0</Mass>
 			<Flammability>0.0</Flammability>
-			<ArmorRating_Sharp>1.30</ArmorRating_Sharp>
-			<ArmorRating_Blunt>0.65</ArmorRating_Blunt>
-			<ArmorRating_Heat>0.80</ArmorRating_Heat>
+			<ArmorRating_Sharp>1.50</ArmorRating_Sharp>
+			<ArmorRating_Blunt>0.70</ArmorRating_Blunt>
+			<ArmorRating_Heat>0.75</ArmorRating_Heat>
 			<Insulation_Cold>40</Insulation_Cold>
 			<Insulation_Heat>14</Insulation_Heat>
 			<EquipDelay>15</EquipDelay>
@@ -450,6 +461,8 @@
 		<equippedStatOffsets>
 			<MeleeDodgeChance>10</MeleeDodgeChance>
 			<InjuryHealingFactor>0.15</InjuryHealingFactor>
+			<MeleeCooldownFactor>0.7</MeleeCooldownFactor>
+			<MeleeHitChance>1.1</MeleeHitChance>
 		</equippedStatOffsets>
 		<apparel>
 			<wornGraphicPath>Things/CustodesArmors/BladeChampion/CustodesBChampion</wornGraphicPath>
@@ -490,14 +503,14 @@
             <researchPrerequisite>GW_TotE_CustodesGuard</researchPrerequisite>
         </recipeMaker>
        <statBases>
-			<WorkToMake>90000</WorkToMake>
+			<WorkToMake>60000</WorkToMake>
 			<MaxHitPoints>700</MaxHitPoints>
 			<MarketValue>4200</MarketValue>
 			<Mass>11.0</Mass>
 			<Flammability>0.0</Flammability>
-			<ArmorRating_Sharp>1.30</ArmorRating_Sharp>
-			<ArmorRating_Blunt>0.65</ArmorRating_Blunt>
-			<ArmorRating_Heat>0.80</ArmorRating_Heat>
+			<ArmorRating_Sharp>1.50</ArmorRating_Sharp>
+			<ArmorRating_Blunt>0.70</ArmorRating_Blunt>
+			<ArmorRating_Heat>0.75</ArmorRating_Heat>
 			<Insulation_Cold>40</Insulation_Cold>
 			<Insulation_Heat>14</Insulation_Heat>
 			<EquipDelay>15</EquipDelay>
@@ -512,6 +525,9 @@
 		<equippedStatOffsets>
 			<SocialImpact>0.1</SocialImpact>
 			<InjuryHealingFactor>0.15</InjuryHealingFactor>
+			<MoveSpeed>0.5</MoveSpeed>
+			<AimingTime>0.8</AimingTime>
+  			<ReloadTime>0.8</ReloadTime>
 		</equippedStatOffsets>
 		<apparel>
 			<wornGraphicPath>Things/CustodesArmors/EyeoftheEmperor/CustodesEOTE</wornGraphicPath>
