@@ -47,14 +47,10 @@
 			<MeleeHitChance>1</MeleeHitChance>
 		</equippedStatOffsets>
 		<equippedAngleOffset>-30</equippedAngleOffset>
-		<stuffCategories>
-			<li>Imperial_Metals</li>
-		</stuffCategories>
-		<costStuffCount>200</costStuffCount>
 		<costList>
 			<!-- <ComponentSpacer>15</ComponentSpacer> -->
 			<!-- <ComponentIndustrial>30</ComponentIndustrial> -->
-			<!-- <Plasteel>100</Plasteel> -->
+			<Plasteel>100</Plasteel>
 			<!-- <Steel>230</Steel> -->
 			<!-- <Gold>10</Gold> -->
 			<!-- <HP_Ceramite>100</HP_Ceramite> -->
@@ -114,10 +110,6 @@
 			<HP_Auramite>20</HP_Auramite>
 			<GW_ComponentRelic>2</GW_ComponentRelic>
 		</costList>
-		<stuffCategories>
-			<li>Imperial_Metals</li>
-		</stuffCategories>
-		<costStuffCount>300</costStuffCount>
 		<tools>
 			<li>
 			<label>handle</label>
