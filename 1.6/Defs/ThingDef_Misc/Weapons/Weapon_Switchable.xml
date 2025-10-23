@@ -136,7 +136,7 @@
 		</graphicData>
 		<relicChance>0</relicChance>
 		<statBases>
-			<WorkToMake>7000</WorkToMake>
+			<WorkToMake>70000</WorkToMake>
 			<Mass>4</Mass>
 			<AccuracyTouch>0.55</AccuracyTouch>
 			<AccuracyShort>0.64</AccuracyShort>
@@ -183,7 +183,7 @@
 		</graphicData>
 		<projectile>
 			<damageDef>RangedStab</damageDef>
-			<damageAmountBase>16</damageAmountBase>
+			<damageAmountBase>25</damageAmountBase>
 			<stoppingPower>0.8</stoppingPower>
 			<armorPenetrationBase>0.38</armorPenetrationBase>
 			<speed>70</speed>
@@ -226,7 +226,7 @@
 		</graphicData>
 		<relicChance>0</relicChance>
 		<statBases>
-			<WorkToMake>7000</WorkToMake>
+			<WorkToMake>70000</WorkToMake>
 			<Mass>4</Mass>
 			<MarketValue>3500</MarketValue>
 			<AccuracyTouch>0.55</AccuracyTouch>
@@ -275,7 +275,7 @@
 		</graphicData>
 		<projectile>
 			<damageDef>Bomb</damageDef>
-			<damageAmountBase>25</damageAmountBase>
+			<damageAmountBase>30</damageAmountBase>
 			<explosionRadius>0.1</explosionRadius>
 			<stoppingPower>3</stoppingPower>
 			<armorPenetrationBase>0.80</armorPenetrationBase>
@@ -319,7 +319,7 @@
 		</graphicData>
 		<relicChance>0</relicChance>
 		<statBases>
-			<WorkToMake>7000</WorkToMake>
+			<WorkToMake>70000</WorkToMake>
 			<Mass>4</Mass>
 			<AccuracyTouch>0.80</AccuracyTouch>
 			<AccuracyShort>0.65</AccuracyShort>
@@ -372,7 +372,7 @@
 		</textures>
         <projectile>
             <damageDef>Vaporize</damageDef>
-            <damageAmountBase>30</damageAmountBase>
+            <damageAmountBase>40</damageAmountBase>
             <armorPenetrationBase>0.70</armorPenetrationBase>
             <stoppingPower>2.0</stoppingPower>
             <speed>10000</speed>
@@ -524,7 +524,7 @@
 		</graphicData>
 		<relicChance>0</relicChance>
 		<statBases>
-			<WorkToMake>7000</WorkToMake>
+			<WorkToMake>70000</WorkToMake>
 			<Mass>4</Mass>
 			<AccuracyTouch>0.55</AccuracyTouch>
 			<AccuracyShort>0.64</AccuracyShort>
@@ -662,7 +662,7 @@
 		</graphicData>
 		<relicChance>0</relicChance>
 		<statBases>
-			<WorkToMake>7000</WorkToMake>
+			<WorkToMake>70000</WorkToMake>
 			<Mass>4</Mass>
 			<AccuracyTouch>0.80</AccuracyTouch>
 			<AccuracyShort>0.65</AccuracyShort>

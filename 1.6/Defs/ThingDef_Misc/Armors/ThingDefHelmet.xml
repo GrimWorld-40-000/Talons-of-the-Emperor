@@ -388,7 +388,7 @@
 			<MoveSpeed>.2</MoveSpeed>
 			<ToxicEnvironmentResistance>0.90</ToxicEnvironmentResistance>
 			<DecompressionResistance MayRequire="kentington.saveourship2">0.75</DecompressionResistance>
-			<HypoxiaResistance MayRequire="kentington.saveourship2>">0.75</HypoxiaResistance>
+			<HypoxiaResistance MayRequire="kentington.saveourship2">0.75</HypoxiaResistance>
 		</equippedStatOffsets>
 		<costList>
 			<ComponentSpacer>10</ComponentSpacer>
@@ -603,7 +603,7 @@
 			<HypoxiaResistance MayRequire="kentington.saveourship2">1</HypoxiaResistance>
 			<sight>1.1</sight>
 			<AimingTime>0.7</AimingTime>
-			<MoveSpeed>
+			<MoveSpeed>.2</MoveSpeed>
 		</equippedStatOffsets>
 		<costList>
 			<ComponentIndustrial>12</ComponentIndustrial>
