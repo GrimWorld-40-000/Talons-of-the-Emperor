@@ -308,8 +308,8 @@
 			<ToxicEnvironmentResistance>0.90</ToxicEnvironmentResistance>
 			<DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
 			<HypoxiaResistance MayRequire="kentington.saveourship2">1</HypoxiaResistance>
-			<AimingTime>0.9</AimingTime>
-			<ReloadTime>0.9</ReloadTime>
+			<RangedWeapon_Warmup>-.1</RangedWeapon_Warmup>
+			<RangedWeapon_Cooldown>-.1</RangedWeapon_Cooldown>
 		</equippedStatOffsets>
 		<costList>
 			<ComponentSpacer>6</ComponentSpacer>
@@ -602,7 +602,7 @@
 			<DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
 			<HypoxiaResistance MayRequire="kentington.saveourship2">1</HypoxiaResistance>
 			<sight>1.1</sight>
-			<AimingTime>0.7</AimingTime>
+			<RangedWeapon_Warmup>0.7</RangedWeapon_Warmup>
 			<MoveSpeed>.2</MoveSpeed>
 		</equippedStatOffsets>
 		<costList>

@@ -29,13 +29,13 @@
 			<!-- <drawSize>1.45</drawSize> -->
 		</graphicData>
 		<tradeability>Buyable</tradeability>
-		<recipeMaker IsNull="True" />
-			<researchPrerequisite>GW_TotE_Allarus</researchPrerequisite> -->
+		<recipeMaker IsNull="True">
+			<researchPrerequisite>GW_TotE_Allarus</researchPrerequisite> 
 			<skillRequirements> 
 			 <Crafting>18</Crafting> 
 			</skillRequirements> 
 			 <recipeUsers Inherit="false"> 
-				<li>GW_SM_TalonOfTheEmperor_WeaponBench</li> -->
+				<li>GW_SM_TalonOfTheEmperor_WeaponBench</li> 
 			</recipeUsers> 
 			<displayPriority>445</displayPriority> 
 		</recipeMaker> 
@@ -53,8 +53,8 @@
 			<HP_Adamantium>5</HP_Adamantium>
 		</smeltProducts>
 		<costList>
-			 <ComponentSpacer>4</ComponentSpacer> -->
-			 <ComponentIndustrial>10</ComponentIndustrial> -->
+			 <ComponentSpacer>4</ComponentSpacer>
+			 <ComponentIndustrial>10</ComponentIndustrial> 
 			 <GW_ComponentRelic>1</GW_ComponentRelic> 
 			 <Plasteel>300</Plasteel> 
 			 <HP_Ceramite>200</HP_Ceramite> 

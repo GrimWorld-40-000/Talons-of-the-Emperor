@@ -135,7 +135,6 @@
 			<InjuryHealingFactor>0.15</InjuryHealingFactor>
 			<PainShockThreshold>0.05</PainShockThreshold>
 			<SocialImpact>0.05</SocialImpact>
-			<IncomingDamageMultiplier>0.85</IncomingDamageMultiplier>
 		</equippedStatOffsets>
 		<apparel>
 			<wornGraphicPath>Things/CustodesArmors/Custodes/CGuard_torso</wornGraphicPath>
@@ -193,7 +192,6 @@
 			<MentalBreakThreshold>-0.05</MentalBreakThreshold>
 			<InjuryHealingFactor>0.15</InjuryHealingFactor>
 			<SocialImpact>0.05</SocialImpact>
-			<IncomingDamageMultiplier>0.85</IncomingDamageMultiplier>
 		</equippedStatOffsets>
 		<apparel>
 			<wornGraphicPath>Things/CustodesArmors/Custodes/Warden_torso</wornGraphicPath>
@@ -526,8 +524,8 @@
 			<SocialImpact>0.1</SocialImpact>
 			<InjuryHealingFactor>0.15</InjuryHealingFactor>
 			<MoveSpeed>0.5</MoveSpeed>
-			<AimingTime>0.8</AimingTime>
-  			<ReloadTime>0.8</ReloadTime>
+			<RangedWeapon_Warmup>-.2</RangedWeapon_Warmup>
+  			<RangedWeapon_Cooldown>.2</RangedWeapon_Cooldown>
 		</equippedStatOffsets>
 		<apparel>
 			<wornGraphicPath>Things/CustodesArmors/EyeoftheEmperor/CustodesEOTE</wornGraphicPath>
