@@ -524,7 +524,6 @@
 			<SocialImpact>0.1</SocialImpact>
 			<InjuryHealingFactor>0.15</InjuryHealingFactor>
 			<MoveSpeed>0.5</MoveSpeed>
-			<RangedWeapon_Warmup>-.2</RangedWeapon_Warmup>
   			<RangedWeapon_Cooldown>.2</RangedWeapon_Cooldown>
 		</equippedStatOffsets>
 		<apparel>

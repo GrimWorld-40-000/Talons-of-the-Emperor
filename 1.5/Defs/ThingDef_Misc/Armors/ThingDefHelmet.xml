@@ -299,7 +299,7 @@
 	<ThingDef ParentName="GW_TotEHelmetBase">
 		<defName>GW_TotE_SagittarumHelmet</defName>
 		<label>Sagittarum helmet</label>
-		<description>An uncommon helmet worn by Sagittarum Custodians of the Adeptus Custodes. The Sagittarum Guard are a rarer type of Custodian, focusing on delivering heavy firepower from longer ranges, like the various fire support squads of the Adeptus Astartes. \n\nDuring the Great Crusade and Horus Heresy, they stood guard on the outermost perimeter of the Imperial Palace, on guard for any invader. However, they became a rare sight in the 41st Millennium.</description>
+		<description>An uncommon helmet worn by Sagittarum Custodians of the Adeptus Custodes. The Sagittarum Guard are a rarer type of Custodian, focusing on delivering heavy firepower from longer ranges, like the various fire support squads of the Adeptus Astartes. \n\nDuring the Great Crusade and Horus Heresy, they stood guard on the outermost perimeter of the Imperial Palace, on guard for any invader. However, they became a rare Sight in the 41st Millennium.</description>
 		<graphicData>
 			<texPath>Things/CustodesArmors/Sagittarum/Helmets/Sagittarum_helmet_south</texPath>
 		</graphicData>

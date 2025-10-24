@@ -291,7 +291,7 @@
 	<ThingDef ParentName="GW_TotEHelmetBase">
 		<defName>GW_TotE_SagittarumHelmet</defName>
 		<label>Sagittarum helmet</label>
-		<description>An uncommon helmet worn by Sagittarum Custodians of the Adeptus Custodes. The Sagittarum Guard are a rarer type of Custodian, focusing on delivering heavy firepower from longer ranges, like the various fire support squads of the Adeptus Astartes. \n\nDuring the Great Crusade and Horus Heresy, they stood guard on the outermost perimeter of the Imperial Palace, on guard for any invader. However, they became a rare sight in the 41st Millennium.</description>
+		<description>An uncommon helmet worn by Sagittarum Custodians of the Adeptus Custodes. The Sagittarum Guard are a rarer type of Custodian, focusing on delivering heavy firepower from longer ranges, like the various fire support squads of the Adeptus Astartes. \n\nDuring the Great Crusade and Horus Heresy, they stood guard on the outermost perimeter of the Imperial Palace, on guard for any invader. However, they became a rare Sight in the 41st Millennium.</description>
 		<graphicData>
 			<texPath>Things/CustodesArmors/Sagittarum/Helmets/Sagittarum_helmet_south</texPath>
 		</graphicData>
@@ -308,7 +308,6 @@
 			<ToxicEnvironmentResistance>0.90</ToxicEnvironmentResistance>
 			<DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
 			<HypoxiaResistance MayRequire="kentington.saveourship2">1</HypoxiaResistance>
-			<RangedWeapon_Warmup>-.1</RangedWeapon_Warmup>
 			<RangedWeapon_Cooldown>-.1</RangedWeapon_Cooldown>
 		</equippedStatOffsets>
 		<costList>
@@ -524,7 +523,7 @@
 			<ToxicEnvironmentResistance>0.75</ToxicEnvironmentResistance>
 			<DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
 			<HypoxiaResistance MayRequire="kentington.saveourship2">1</HypoxiaResistance>
-			<sight>1.1</sight>
+			<Sight>1.1</Sight>
 		</equippedStatOffsets>
 		<costList>
 			<ComponentIndustrial>12</ComponentIndustrial>
@@ -601,8 +600,7 @@
 			<ToxicEnvironmentResistance>0.75</ToxicEnvironmentResistance>
 			<DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
 			<HypoxiaResistance MayRequire="kentington.saveourship2">1</HypoxiaResistance>
-			<sight>1.1</sight>
-			<RangedWeapon_Warmup>0.7</RangedWeapon_Warmup>
+			<Sight>1.1</Sight>
 			<MoveSpeed>.2</MoveSpeed>
 		</equippedStatOffsets>
 		<costList>
