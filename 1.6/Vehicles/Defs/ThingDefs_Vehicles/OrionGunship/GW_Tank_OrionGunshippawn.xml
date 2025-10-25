@@ -334,7 +334,7 @@
 						
 						<aimPieOffset>(0, 2.55)</aimPieOffset>
 						
-						<key>boltor2</key>
+						<key>Bolter2</key>
 					</li>
 					<li>
 						<turretDef>GW_Orion_Bolter</turretDef>
@@ -350,7 +350,7 @@
 						
 						<aimPieOffset>(0, 2.55)</aimPieOffset>
 						
-						<key>boltor1</key>
+						<key>Bolter1</key>
 					</li>
 				</turrets>
 			</li>
