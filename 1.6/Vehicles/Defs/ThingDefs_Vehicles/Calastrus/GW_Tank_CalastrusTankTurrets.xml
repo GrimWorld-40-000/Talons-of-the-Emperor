@@ -5,7 +5,7 @@
         <label>Accelerator cannon shot</label>
         <description>Arachnus heavy blaze cannon is a super-powered, turret-mounted lascannon that fires intensely concentrated high-energy beams, capable of annihilating heavily armored vehicles and fortified positions with devastating precision.</description>
         <projectile>
-            <damageDef>Burn</damageDef>
+            <damageDef>Vaporize</damageDef>
             <damageAmountBase>400</damageAmountBase>
             <armorPenetrationBase>2</armorPenetrationBase>
             <stoppingPower>3.0</stoppingPower>
@@ -47,17 +47,25 @@
 				<shotsPerBurst>1</shotsPerBurst>
 				<ticksBetweenShots>10</ticksBetweenShots>
 				<ticksBetweenBursts>100</ticksBetweenBursts>
-				<spreadRadius>1</spreadRadius>
 				<label>Single</label>
 				<texPath>UI/Gizmos/FireRate_Single</texPath>
+				<accuracyTouch>1</accuracyTouch>
+      			<accuracyShort>0.95</accuracyShort>
+      			<accuracyMedium>0.75</accuracyMedium>
+      			<accuracyLong>0.65</accuracyLong>
+			</li>
 			</li>
 			<li>
 				<shotsPerBurst>2</shotsPerBurst>
 				<ticksBetweenShots>5</ticksBetweenShots>
 				<ticksBetweenBursts>100</ticksBetweenBursts>
-				<spreadRadius>1</spreadRadius>
 				<label>Burst</label>
 				<texPath>UI/Gizmos/FireRate_Burst</texPath>
+				<accuracyTouch>.85</accuracyTouch>
+      			<accuracyShort>0.75</accuracyShort>
+      			<accuracyMedium>0.65</accuracyMedium>
+      			<accuracyLong>0.55</accuracyLong>
+			</li>
 			</li>
 		</fireModes>
 
