@@ -138,10 +138,10 @@
 		<statBases>
 			<WorkToMake>70000</WorkToMake>
 			<Mass>4</Mass>
-			<AccuracyTouch>0.55</AccuracyTouch>
-			<AccuracyShort>0.64</AccuracyShort>
-			<AccuracyMedium>0.55</AccuracyMedium>
-			<AccuracyLong>0.45</AccuracyLong>
+			<accuracyTouch>0.55</accuracyTouch>
+			<accuracyShort>0.64</accuracyShort>
+			<accuracyMedium>0.55</accuracyMedium>
+			<accuracyLong>0.45</accuracyLong>
 			<RangedWeapon_Cooldown>2.2</RangedWeapon_Cooldown>
 		</statBases>
 		<recipeMaker Inherit="False"/>
@@ -229,10 +229,10 @@
 			<WorkToMake>70000</WorkToMake>
 			<Mass>4</Mass>
 			<MarketValue>3500</MarketValue>
-			<AccuracyTouch>0.55</AccuracyTouch>
-			<AccuracyShort>0.64</AccuracyShort>
-			<AccuracyMedium>0.55</AccuracyMedium>
-			<AccuracyLong>0.45</AccuracyLong>
+			<accuracyTouch>0.55</accuracyTouch>
+			<accuracyShort>0.64</accuracyShort>
+			<accuracyMedium>0.55</accuracyMedium>
+			<accuracyLong>0.45</accuracyLong>
 			<RangedWeapon_Cooldown>3</RangedWeapon_Cooldown>
 		</statBases>
 		<recipeMaker Inherit="False"/>
@@ -321,10 +321,10 @@
 		<statBases>
 			<WorkToMake>70000</WorkToMake>
 			<Mass>4</Mass>
-			<AccuracyTouch>0.80</AccuracyTouch>
-			<AccuracyShort>0.65</AccuracyShort>
-			<AccuracyMedium>0.3</AccuracyMedium>
-			<AccuracyLong>0.1</AccuracyLong>
+			<accuracyTouch>0.80</accuracyTouch>
+			<accuracyShort>0.65</accuracyShort>
+			<accuracyMedium>0.3</accuracyMedium>
+			<accuracyLong>0.1</accuracyLong>
 			<RangedWeapon_Cooldown>2.9</RangedWeapon_Cooldown>
 		</statBases>
 		<recipeMaker Inherit="False"/>
@@ -526,10 +526,10 @@
 		<statBases>
 			<WorkToMake>70000</WorkToMake>
 			<Mass>4</Mass>
-			<AccuracyTouch>0.55</AccuracyTouch>
-			<AccuracyShort>0.64</AccuracyShort>
-			<AccuracyMedium>0.55</AccuracyMedium>
-			<AccuracyLong>0.45</AccuracyLong>
+			<accuracyTouch>0.55</accuracyTouch>
+			<accuracyShort>0.64</accuracyShort>
+			<accuracyMedium>0.55</accuracyMedium>
+			<accuracyLong>0.45</accuracyLong>
 			<RangedWeapon_Cooldown>2.5</RangedWeapon_Cooldown>
 		</statBases>
 		<recipeMaker Inherit="False"/>
@@ -664,10 +664,10 @@
 		<statBases>
 			<WorkToMake>70000</WorkToMake>
 			<Mass>4</Mass>
-			<AccuracyTouch>0.80</AccuracyTouch>
-			<AccuracyShort>0.65</AccuracyShort>
-			<AccuracyMedium>0.55</AccuracyMedium>
-			<AccuracyLong>0.45</AccuracyLong>
+			<accuracyTouch>0.80</accuracyTouch>
+			<accuracyShort>0.65</accuracyShort>
+			<accuracyMedium>0.55</accuracyMedium>
+			<accuracyLong>0.45</accuracyLong>
 			<RangedWeapon_Cooldown>1.40</RangedWeapon_Cooldown>
 		</statBases>
 		<recipeMaker Inherit="False"/>
