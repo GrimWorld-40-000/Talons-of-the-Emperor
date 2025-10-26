@@ -53,7 +53,6 @@
       			<accuracyShort>0.95</accuracyShort>
       			<accuracyMedium>0.75</accuracyMedium>
       			<accuracyLong>0.65</accuracyLong>
-			</li>
 			<li>
 				<shotsPerBurst>2</shotsPerBurst>
 				<ticksBetweenShots>5</ticksBetweenShots>
