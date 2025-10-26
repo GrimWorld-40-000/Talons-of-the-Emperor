@@ -457,10 +457,11 @@
 			<HP_Auramite>10</HP_Auramite>
 		</costList>
 		<equippedStatOffsets>
-			<MeleeDodgeChance>10</MeleeDodgeChance>
-			<InjuryHealingFactor>0.15</InjuryHealingFactor>
-			<MeleeCooldownFactor>0.7</MeleeCooldownFactor>
-			<MeleeHitChance>1.1</MeleeHitChance>
+		<InjuryHealingFactor>1.25</InjuryHealingFactor>
+			<MentalBreakThreshold>-0.08</MentalBreakThreshold>
+			<PainShockThreshold>0.1</PainShockThreshold>
+			<SocialImpact>0.15</SocialImpact>
+			<PawnBeauty>50</PawnBeauty>	
 		</equippedStatOffsets>
 		<apparel>
 			<wornGraphicPath>Things/CustodesArmors/BladeChampion/CustodesBChampion</wornGraphicPath>

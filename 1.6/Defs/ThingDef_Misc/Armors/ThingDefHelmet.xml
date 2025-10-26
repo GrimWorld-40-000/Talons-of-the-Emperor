@@ -519,11 +519,9 @@
 			</drawData>
 		</apparel>
 		<equippedStatOffsets>
-			<MeleeDamageFactor>0.1</MeleeDamageFactor>
 			<ToxicEnvironmentResistance>0.75</ToxicEnvironmentResistance>
 			<DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
 			<HypoxiaResistance MayRequire="kentington.saveourship2">1</HypoxiaResistance>
-			<Sight>1.1</Sight>
 		</equippedStatOffsets>
 		<costList>
 			<ComponentIndustrial>12</ComponentIndustrial>
@@ -600,7 +598,6 @@
 			<ToxicEnvironmentResistance>0.75</ToxicEnvironmentResistance>
 			<DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
 			<HypoxiaResistance MayRequire="kentington.saveourship2">1</HypoxiaResistance>
-			<Sight>1.1</Sight>
 			<MoveSpeed>.2</MoveSpeed>
 		</equippedStatOffsets>
 		<costList>
