@@ -150,12 +150,12 @@
 			<!-- <ComponentSpacer>13</ComponentSpacer> -->
 			<!-- <ComponentIndustrial>30</ComponentIndustrial> -->
 			<!-- <Plasteel>400</Plasteel> -->
-			<!-- <Steel>500</Steel> -->
+			<Steel>500</Steel>
 			<!-- <Uranium>150</Uranium> -->
 			<!-- <HP_Ceramite>200</HP_Ceramite> -->
 			<GW_ComponentRelic>1</GW_ComponentRelic>
 			<HP_Adamantium>40</HP_Adamantium>
-			<HP_Auramite>15</HP_Auramite>
+			<HP_Auramite>100</HP_Auramite>
 		</costList>
 		<verbs>
 			<li>
@@ -200,15 +200,15 @@
 	<ThingDef ParentName="BaseBullet">
 		<defName>GW_TotE_Bolt_Caliver_Bullet</defName>
 		<label>bolt</label>
-		<thingClass>Projectile_Explosive</thingClass> 
+		<!-- <thingClass>Projectile_Explosive</thingClass> -->
 		<graphicData>
 			<texPath>Things/Projectiles/Bolter_Projectile</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<projectile>
 			<damageDef>Bullet</damageDef>
-			<damageAmountBase>30</damageAmountBase>
-			<explosionRadius>0.5</explosionRadius> 
+			<damageAmountBase>45</damageAmountBase>
+			<!-- <explosionRadius>0.5</explosionRadius> -->
 			<armorPenetrationBase>0.42</armorPenetrationBase>
 			<stoppingPower>0.8</stoppingPower>
 			<speed>70</speed>
