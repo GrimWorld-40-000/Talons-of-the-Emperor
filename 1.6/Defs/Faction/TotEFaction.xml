@@ -49,7 +49,7 @@
         </maxPawnCostPerTotalPointsCurve>
         <xenotypeSet>
             <xenotypeChances>
-                <BEWH_Custodes MayRequire="Phonicmas.40kGenes">1</BEWH_Custodes>
+                <BEWH_Custodes MayRequire="Phonicmas.RimDark.MankindsFinest">1</BEWH_Custodes>
                 <!-- <BEWH_Primarch MayRequire="Phonicmas.40kGenes">1</BEWH_Primarch> Left here in case there is a pawn kind that should use this -->
             </xenotypeChances>
         </xenotypeSet>
