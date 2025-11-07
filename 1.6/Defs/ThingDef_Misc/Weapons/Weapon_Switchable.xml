@@ -108,7 +108,7 @@
 			<texPath>Things/Weapons/SpearBolter</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>Cutout</shaderType>
-			<!-- <drawSize>1.0</drawSize> -->
+			<!-- <drawSize>1.5</drawSize> -->
 		</graphicData>
 		<comps>
 			<li Class="WeaponSwitch.CompProperties_SwitchWeapon">
@@ -136,7 +136,7 @@
 		</graphicData>
 		<relicChance>0</relicChance>
 		<statBases>
-			<WorkToMake>7000</WorkToMake>
+			<WorkToMake>70000</WorkToMake>
 			<Mass>4</Mass>
 			<AccuracyTouch>0.55</AccuracyTouch>
 			<AccuracyShort>0.64</AccuracyShort>
@@ -177,13 +177,13 @@
 		<defName>GW_TOE_GuardianSpearBolterProjectile</defName>
 		<label>Guardian Spear bolt</label>
 		<graphicData>
-			<texPath>Projectiles/AM_BoltPistol_Proj</texPath>
+			<texPath>Things/Projectiles/Bolter_Projectile</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<!-- <drawSize>1.8</drawSize> -->
 		</graphicData>
 		<projectile>
 			<damageDef>RangedStab</damageDef>
-			<damageAmountBase>16</damageAmountBase>
+			<damageAmountBase>25</damageAmountBase>
 			<stoppingPower>0.8</stoppingPower>
 			<armorPenetrationBase>0.38</armorPenetrationBase>
 			<speed>70</speed>
@@ -226,7 +226,7 @@
 		</graphicData>
 		<relicChance>0</relicChance>
 		<statBases>
-			<WorkToMake>7000</WorkToMake>
+			<WorkToMake>70000</WorkToMake>
 			<Mass>4</Mass>
 			<MarketValue>3500</MarketValue>
 			<AccuracyTouch>0.55</AccuracyTouch>
@@ -275,7 +275,7 @@
 		</graphicData>
 		<projectile>
 			<damageDef>Bomb</damageDef>
-			<damageAmountBase>25</damageAmountBase>
+			<damageAmountBase>30</damageAmountBase>
 			<explosionRadius>0.1</explosionRadius>
 			<stoppingPower>3</stoppingPower>
 			<armorPenetrationBase>0.80</armorPenetrationBase>
@@ -319,7 +319,7 @@
 		</graphicData>
 		<relicChance>0</relicChance>
 		<statBases>
-			<WorkToMake>7000</WorkToMake>
+			<WorkToMake>70000</WorkToMake>
 			<Mass>4</Mass>
 			<AccuracyTouch>0.80</AccuracyTouch>
 			<AccuracyShort>0.65</AccuracyShort>
@@ -368,11 +368,11 @@
         <label>Pyrithite Spear beam</label>
         <description>melta beam</description>
 		<textures>
-			<li>Things/Projectiles/Melta_Projectile</li>
+			<li>Things/Projectile/ChargeLanceShot</li>
 		</textures>
         <projectile>
-            <damageDef>Burn</damageDef>
-            <damageAmountBase>30</damageAmountBase>
+            <damageDef>Vaporize</damageDef>
+            <damageAmountBase>40</damageAmountBase>
             <armorPenetrationBase>0.70</armorPenetrationBase>
             <stoppingPower>2.0</stoppingPower>
             <speed>10000</speed>
@@ -524,7 +524,7 @@
 		</graphicData>
 		<relicChance>0</relicChance>
 		<statBases>
-			<WorkToMake>7000</WorkToMake>
+			<WorkToMake>70000</WorkToMake>
 			<Mass>4</Mass>
 			<AccuracyTouch>0.55</AccuracyTouch>
 			<AccuracyShort>0.64</AccuracyShort>
@@ -589,7 +589,7 @@
 		<defName>GW_TotE_CastellanAxeProjectile</defName>
 		<label>Castellan Axe bolt</label>
 		<graphicData>
-			<texPath>Projectiles/AM_BoltPistol_Proj</texPath>
+			<texPath>Things/Projectiles/Bolter_Projectile</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<projectile>
@@ -662,7 +662,7 @@
 		</graphicData>
 		<relicChance>0</relicChance>
 		<statBases>
-			<WorkToMake>7000</WorkToMake>
+			<WorkToMake>70000</WorkToMake>
 			<Mass>4</Mass>
 			<AccuracyTouch>0.80</AccuracyTouch>
 			<AccuracyShort>0.65</AccuracyShort>
@@ -727,7 +727,7 @@
 		<defName>GW_TotE_WatchersAxeProjectile</defName>
 		<label>Watcher's Axe bolt</label>
 		<graphicData>
-			<texPath>Projectiles/AM_BoltPistol_Proj</texPath>
+			<texPath>Things/Projectiles/Bolter_Projectile</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<projectile>

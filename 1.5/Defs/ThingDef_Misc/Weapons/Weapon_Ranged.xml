@@ -194,7 +194,7 @@
 				<hasStandardCommand>true</hasStandardCommand>
 				<defaultProjectile>GW_TotE_Bolt_Caliver_Bullet</defaultProjectile>
 				<warmupTime>2.5</warmupTime>
-				<forcedMissRadius>0.1</forcedMissRadius>
+				<!--<forcedMissRadius>0.1</forcedMissRadius> -->
 				<range>55</range>
 				<ticksBetweenBurstShots>4</ticksBetweenBurstShots>
 				<burstShotCount>3</burstShotCount>

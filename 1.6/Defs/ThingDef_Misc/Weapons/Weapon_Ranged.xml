@@ -29,16 +29,16 @@
 			<!-- <drawSize>1.45</drawSize> -->
 		</graphicData>
 		<tradeability>Buyable</tradeability>
-		<recipeMaker IsNull="True" />
-			<!-- <researchPrerequisite>GW_TotE_Allarus</researchPrerequisite> -->
-			<!-- <skillRequirements> -->
-				<!-- <Crafting>18</Crafting> -->
-			<!-- </skillRequirements> -->
-			<!-- <recipeUsers Inherit="false"> -->
-				<!-- <li>GW_SM_TalonOfTheEmperor_WeaponBench</li> -->
-			<!-- </recipeUsers> -->
-			<!-- <displayPriority>445</displayPriority> -->
-		<!-- </recipeMaker> -->
+		<recipeMaker IsNull="True">
+			<researchPrerequisite>GW_TotE_Allarus</researchPrerequisite> 
+			<skillRequirements> 
+			 <Crafting>18</Crafting> 
+			</skillRequirements> 
+			 <recipeUsers Inherit="false"> 
+				<li>GW_SM_TalonOfTheEmperor_WeaponBench</li> 
+			</recipeUsers> 
+			<displayPriority>445</displayPriority> 
+		</recipeMaker> 
 		<statBases>
 			<WorkToMake>55000</WorkToMake>
 			<MarketValue>4000</MarketValue>
@@ -52,17 +52,14 @@
 		<smeltProducts>
 			<HP_Adamantium>5</HP_Adamantium>
 		</smeltProducts>
-		<!-- <costList> -->
-			<!-- <ComponentSpacer>9</ComponentSpacer> -->
-			<!-- <ComponentIndustrial>27</ComponentIndustrial> -->
-			<!-- <GW_ComponentRelic>4</GW_ComponentRelic> -->
-			<!-- <Plasteel>300</Plasteel> -->
-			<!-- <Steel>500</Steel> -->
-			<!-- <Uranium>100</Uranium> -->
-			<!-- <HP_Ceramite>200</HP_Ceramite> -->
-			<!-- <HP_Adamantium>150</HP_Adamantium> -->
-			<!-- <HP_Auramite>60</HP_Auramite> -->
-		<!-- </costList> -->
+		<costList>
+			 <ComponentSpacer>4</ComponentSpacer>
+			 <ComponentIndustrial>10</ComponentIndustrial> 
+			 <GW_ComponentRelic>1</GW_ComponentRelic> 
+			 <Plasteel>300</Plasteel> 
+			 <HP_Ceramite>200</HP_Ceramite> 
+			 <HP_Auramite>60</HP_Auramite> 
+		</costList> 
 		<verbs>
 			<li>
 				<verbClass>Verb_Shoot</verbClass>
@@ -111,9 +108,9 @@
 			<li>Things/Projectiles/Laser_Red</li>
 		</textures>
         <projectile>
-            <damageDef>Bomb</damageDef>
-            <damageAmountBase>35</damageAmountBase>
-            <armorPenetrationBase>0.8</armorPenetrationBase>
+            <damageDef>Vaporize</damageDef>
+            <damageAmountBase>50</damageAmountBase>
+            <armorPenetrationBase>1</armorPenetrationBase>
             <stoppingPower>3</stoppingPower>
             <speed>1000</speed>
         </projectile>
@@ -140,7 +137,7 @@
 			</recipeUsers>
 		</recipeMaker>
 		<statBases>
-			<WorkToMake>90000</WorkToMake>
+			<WorkToMake>50000</WorkToMake>
 			<Mass>6</Mass>
 			<MarketValue>2000</MarketValue>
 			<AccuracyTouch>0.55</AccuracyTouch>
@@ -153,12 +150,12 @@
 			<!-- <ComponentSpacer>13</ComponentSpacer> -->
 			<!-- <ComponentIndustrial>30</ComponentIndustrial> -->
 			<!-- <Plasteel>400</Plasteel> -->
-			<!-- <Steel>500</Steel> -->
+			<Steel>500</Steel>
 			<!-- <Uranium>150</Uranium> -->
 			<!-- <HP_Ceramite>200</HP_Ceramite> -->
 			<GW_ComponentRelic>1</GW_ComponentRelic>
 			<HP_Adamantium>40</HP_Adamantium>
-			<HP_Auramite>15</HP_Auramite>
+			<HP_Auramite>100</HP_Auramite>
 		</costList>
 		<verbs>
 			<li>
@@ -210,8 +207,8 @@
 		</graphicData>
 		<projectile>
 			<damageDef>Bullet</damageDef>
-			<damageAmountBase>23</damageAmountBase>
-			<!-- <explosionRadius>0.1</explosionRadius> -->
+			<damageAmountBase>45</damageAmountBase>
+			<!-- <explosionRadius>0.5</explosionRadius> -->
 			<armorPenetrationBase>0.42</armorPenetrationBase>
 			<stoppingPower>0.8</stoppingPower>
 			<speed>70</speed>
@@ -239,7 +236,7 @@
 			</recipeUsers>
 		</recipeMaker>
 		<statBases>
-			<WorkToMake>95000</WorkToMake>
+			<WorkToMake>45000</WorkToMake>
 			<MarketValue>400</MarketValue>
 			<Mass>4</Mass>
 			<AccuracyTouch>0.80</AccuracyTouch>
@@ -268,7 +265,7 @@
 				<ai_AvoidFriendlyFireRadius>3</ai_AvoidFriendlyFireRadius>
 				<!-- <forcedMissRadius>1.5</forcedMissRadius> -->
 				<warmupTime>1</warmupTime>
-				<range>10</range>
+				<range>15</range>
 				<burstShotCount>1</burstShotCount>
 				<soundCast>Talon_Pulse_Gun_Sound</soundCast>
 				<soundCastTail>GunTail_Light</soundCastTail>
@@ -323,7 +320,7 @@
 			<displayPriority>445</displayPriority>
 		</recipeMaker>
 		<statBases>
-			<WorkToMake>85000</WorkToMake>
+			<WorkToMake>50000</WorkToMake>
 			<MarketValue>2200</MarketValue>
 			<Mass>3</Mass>
 			<AccuracyTouch>0.80</AccuracyTouch>
@@ -401,8 +398,8 @@
 		</graphicData>
 		<projectile>
 			<damageDef>Bullet</damageDef>
-			<damageAmountBase>25</damageAmountBase>
-			<armorPenetrationBase>0.36</armorPenetrationBase>
+			<damageAmountBase>50</damageAmountBase>
+			<armorPenetrationBase>1</armorPenetrationBase>
 			<stoppingPower>1.5</stoppingPower>
 			<speed>70</speed>
 		</projectile>
@@ -429,7 +426,7 @@
 			</recipeUsers>
 		</recipeMaker>
 		<statBases>
-			<WorkToMake>80000</WorkToMake>
+			<WorkToMake>50000</WorkToMake>
 			<Mass>6</Mass>
 			<MarketValue>1200</MarketValue>
 			<AccuracyTouch>0.55</AccuracyTouch>
