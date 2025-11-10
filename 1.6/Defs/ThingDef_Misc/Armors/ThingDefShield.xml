@@ -45,15 +45,15 @@
 			<shaderType>Cutout</shaderType>
 		</graphicData>
 		<comps>
-			<!-- <li Class="GW4KArmor.CompProperties_TriColorMask"> -->
-				<!-- <maskCount>2</maskCount> -->
-				<!-- <palettePresets>GW_CS_BodyChapterPalettesCustodes</palettePresets> -->
-				<!-- <defaultPalette> -->
-					<!-- <colorA>(199, 160, 82)</colorA> -->
-					<!-- <colorB>(149, 38, 34)</colorB> -->
-					<!-- <colorC>(199, 160, 82)</colorC> -->
-				<!-- </defaultPalette> -->
-			<!-- </li> -->
+			<li Class="GW4KArmor.CompProperties_TriColorMask">
+				<maskCount>2</maskCount>
+				<palettePresets>GW_CS_BodyChapterPalettesCustodes</palettePresets>
+				<defaultPalette>
+					<colorA>(199, 160, 82)</colorA>
+					<colorB>(149, 38, 34)</colorB>
+					<colorC>(199, 160, 82)</colorC>
+				</defaultPalette>
+			</li>
 			<li Class="GWParryShield.CompProperties_GW_Parryable">
 				<parryHediff>GW_PraesidiumParry</parryHediff><!-- the parry hediff-->
 				<parryChance>0.05</parryChance> <!-- 0.20 = 20% -->
@@ -144,15 +144,15 @@
 			<shaderType>Cutout</shaderType>
 		</graphicData>
 		<comps>
-			<!-- <li Class="GW4KArmor.CompProperties_TriColorMask"> -->
-				<!-- <maskCount>1</maskCount> -->
-				<!-- <palettePresets>GW_CS_BodyChapterPalettesCustodes</palettePresets> -->
-				<!-- <defaultPalette> -->
-					<!-- <colorA>(199, 160, 82)</colorA> -->
-					<!-- <colorB>(149, 38, 34)</colorB> -->
-					<!-- <colorC>(199, 160, 82)</colorC> -->
-				<!-- </defaultPalette> -->
-			<!-- </li> -->
+			<li Class="GW4KArmor.CompProperties_TriColorMask">
+				<maskCount>1</maskCount>
+				<palettePresets>GW_CS_BodyChapterPalettesCustodes</palettePresets>
+				<defaultPalette>
+					<colorA>(199, 160, 82)</colorA>
+					<colorB>(149, 38, 34)</colorB>
+					<colorC>(199, 160, 82)</colorC>
+				</defaultPalette>
+			</li>
 			<li Class="GWParryShield.CompProperties_GW_Parryable">
 				<parryHediff>GW_CaptainParry</parryHediff><!-- the parry hediff-->
 				<parryChance>0.15</parryChance> <!-- 0.20 = 20% -->
