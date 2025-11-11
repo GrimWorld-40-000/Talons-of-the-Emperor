@@ -507,7 +507,7 @@
 		<label>Blade Champion helmet</label>
 		<description>An auramite-plated helmet worn by a Custodian Blade Champion. Against the most threatening foes the enemy can muster, great protection is required. \n\nThe Blade Champion is second-in-command of a Shield Company, second to the Shield-Captain. While their Captain maintains control of the main force, Blade Champions can be found leading smaller detachments into battle, plunging deep into the enemy's ranks.</description>
 		<graphicData>
-			<texPath>Things/CustodesArmors/BladeChampion/Helmet/CustodesBChampionHelmet_south</texPath>
+			<texPath>Things/CustodesArmors/BladeChampion/Helmet/CustodesBChampionHelmet</texPath>
 			<drawSize>(1.5,1.5)</drawSize>
 		</graphicData>
 		<apparel>
@@ -515,6 +515,7 @@
 				<li>GW_BladeChampion</li>
 			</tags>
 			<wornGraphicPath>Things/CustodesArmors/BladeChampion/Helmet/CustodesBChampionHelmet</wornGraphicPath>
+			<useWornGraphicMask>true</useWornGraphicMask>
 			<drawData>
 			</drawData>
 		</apparel>
@@ -566,13 +567,14 @@
 		<label>Eye of the Emperor helmet</label>
 		<description>A light Power Armor helmet, combined with a hood - suitable for an Eye of the Emperor. \n\nThough they are no longer suited to the regular ranks of the Adeptus Custodes, an Eye of the Emperor retains their biological and genetic enhancements. Many Eyes could still slay a Chaos Space Marine man-to-man, and are more than a match for the majority of the everyday threats an Imperial underhive citizen sees.</description>
 		<graphicData>
-			<texPath>Things/CustodesArmors/EyeoftheEmperor/Helmet/CustodesEOTEHelmet_south</texPath>
+			<texPath>Things/CustodesArmors/EyeoftheEmperor/Helmet/CustodesEOTEHelmet</texPath>
 		</graphicData>
 		<apparel>
 			<tags>
 				<li>GW_EyeOfTheEmperor</li>
 			</tags>
 			<wornGraphicPath>Things/CustodesArmors/EyeoftheEmperor/Helmet/CustodesEOTEHelmet</wornGraphicPath>
+			<useWornGraphicMask>true</useWornGraphicMask>
 			<drawData>
 				<dataSouth>
 					<offset>(0, 0, 0.13)</offset>
@@ -799,13 +801,14 @@
 		<label>Shield Captain helmet</label>
 		<description>The helmet of a Shield-Captain of the Adeptus Custodes, with extra markings to symbolise their rank. \n\nShield-Captains are the leaders of Shield Companies, the standard tactical formation of the Adeptus Custodes - multiple Shield Companies form a Shield Host. However, their organisation is conducted with surprising looseness, with Shield Companies being formed and disbanded as needed, and Shield-Captains have even been known to command each other as the situation requires. \n\nCustodians do not require orders to fall in line, nor rank to command - every Custodian knows their place and respects each others' authority.</description>
 		<graphicData>
-			<texPath>Things/CustodesArmors/ShieldCaptain/Helmet/CustodesSCaptainHelmet_south</texPath>
+			<texPath>Things/CustodesArmors/ShieldCaptain/Helmet/CustodesSCaptainHelmet</texPath>
 		</graphicData>
 		<apparel>
 			<tags>
 				<li>GW_ShieldCaptain</li>
 			</tags>
 			<wornGraphicPath>Things/CustodesArmors/ShieldCaptain/Helmet/CustodesSCaptainHelmet</wornGraphicPath>
+			<useWornGraphicMask>True</useWornGraphicMask>
 			<drawData>
 				<dataSouth>
 					<!-- <offset>(0, 0, 0.17)</offset> -->
