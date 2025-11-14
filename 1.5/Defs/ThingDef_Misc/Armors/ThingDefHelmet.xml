@@ -667,7 +667,6 @@
 		<description>An auramite-plated helmet worn by a Custodian Blade Champion. Against the most threatening foes the enemy can muster, great protection is required. \n\nThe Blade Champion is second-in-command of a Shield Company, second to the Shield-Captain. While their Captain maintains control of the main force, Blade Champions can be found leading smaller detachments into battle, plunging deep into the enemy's ranks.</description>
 		<graphicData>
 			<texPath>Things/CustodesArmors/BladeChampion/Helmet/CustodesBChampionHelmet_south</texPath>
-			<drawSize>(1.5,1.5)</drawSize>
 		</graphicData>
 		<apparel>
 			<tags>
