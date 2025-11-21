@@ -55,6 +55,30 @@
 		</apparel>
 	</ThingDef>
 	
+	<GW4KArmor.PaletteDef>
+        <defName>GW_CS_BackpackChapterPalettes</defName>
+        <palettes>
+			 <li>
+				<name>Auramite</name>
+				<colorA>(199, 160, 82)</colorA>
+				<colorB>(149, 38, 34)</colorB>
+				<colorC>(199, 160, 82)</colorC>
+			  </li>
+			  <li>
+				<name>Shadowkeepers</name>
+				<colorA>(78, 70, 70)</colorA>
+				<colorB>(139, 38, 34)</colorB>
+				<colorC>(78, 70, 70)</colorC>
+			  </li>
+			  <li>
+				<name>Solar Watch</name>
+				<colorA>(244, 238, 225)</colorA>
+				<colorB>(189, 55, 57)</colorB>
+				<colorC>(244, 238, 225)</colorC>
+			  </li>
+        </palettes>
+    </GW4KArmor.PaletteDef>
+	
 	<!-- Venatari backpack -->
 	<ThingDef ParentName="GW_SM_TalonOfTheEmperorBackpackBase">
 		<defName>GW_TotE_VenatariBackpack</defName>
@@ -137,7 +161,7 @@
 		<comps>
 			<li Class="GW4KArmor.CompProperties_TriColorMask">
 				<maskCount>1</maskCount>
-				<palettePresets>GW_SM_BackpackChapterPalettes</palettePresets>
+				<palettePresets>GW_CS_BackpackChapterPalettes</palettePresets>
 				<defaultPalette>
 					<colorA>(250, 176, 67)</colorA>
 					<colorB>(250, 176, 67)</colorB>
