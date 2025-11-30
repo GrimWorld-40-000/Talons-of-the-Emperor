@@ -36,13 +36,13 @@
             <li>Advanced</li>
         </techHediffsTags>
         <modExtensions> <!--If some of them are supposed to use seperate color palettes, this should be moved to individual PawnKindDefs-->
-            <!-- <li Class="GW4KArmor.DefaultPaletteExtension"> -->
-                <!-- <defaultPalette> -->
-                    <!-- <colorA>(199, 160, 82)</colorA> -->
-                    <!-- <colorB>(149, 38, 34)</colorB> -->
-                    <!-- <colorC>(199, 160, 82)</colorC> -->
-                <!-- </defaultPalette> -->
-            <!-- </li> -->
+            <li Class="GW4KArmor.DefaultPaletteExtension">
+                <defaultPalette>
+                    <colorA>(199, 160, 82)</colorA>
+                    <colorB>(149, 38, 34)</colorB>
+                    <colorC>(199, 160, 82)</colorC>
+                </defaultPalette>
+            </li>
         </modExtensions>
     </PawnKindDef>
 
