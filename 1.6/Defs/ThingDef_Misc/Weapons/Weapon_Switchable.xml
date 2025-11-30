@@ -13,7 +13,7 @@
 				<li>GW_SM_TalonOfTheEmperor_WeaponBench</li>
 			</recipeUsers>
 		</recipeMaker>
-		<uiIconScale>1</uiIconScale>
+		<uiIconScale>0.4</uiIconScale>
 		<stuffCategories Inherit="false" IsNull="True"/>		
 		<costList>
 			<GW_ComponentRelic>1</GW_ComponentRelic>
@@ -108,8 +108,9 @@
 			<texPath>Things/Weapons/SpearBolter</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>Cutout</shaderType>
-			<!-- <drawSize>1.5</drawSize> -->
+			<drawSize>2.3</drawSize>
 		</graphicData>
+		<uiIconScale>0.4</uiIconScale>	
 		<comps>
 			<li Class="WeaponSwitch.CompProperties_SwitchWeapon">
 				<weaponsToSwitch>
@@ -132,8 +133,9 @@
 			<texPath>Things/Weapons/SpearBolter</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>Cutout</shaderType>
-			<!-- <drawSize>1.8</drawSize> -->
+			<drawSize>2.3</drawSize>
 		</graphicData>
+		<uiIconScale>0.4</uiIconScale>	
 		<relicChance>0</relicChance>
 		<statBases>
 			<WorkToMake>70000</WorkToMake>
@@ -179,7 +181,7 @@
 		<graphicData>
 			<texPath>Things/Projectiles/Bolter_Projectile</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
-			<!-- <drawSize>1.8</drawSize> -->
+			<drawSize>1.8</drawSize>
 		</graphicData>
 		<projectile>
 			<damageDef>RangedStab</damageDef>
@@ -199,7 +201,7 @@
 			<texPath>Things/Weapons/SpearAdrathic</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>Cutout</shaderType>
-			<!-- <drawSize>1.8</drawSize> -->
+			<drawSize>2.5</drawSize>
 		</graphicData>
 		<comps>
 			<li Class="WeaponSwitch.CompProperties_SwitchWeapon">
@@ -222,8 +224,9 @@
 		<graphicData>
 			<texPath>Things/Weapons/SpearAdrathic</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
-			<!-- <drawSize>1.8</drawSize> -->
+			<drawSize>2.5</drawSize>
 		</graphicData>
+		<uiIconScale>0.4</uiIconScale>	
 		<relicChance>0</relicChance>
 		<statBases>
 			<WorkToMake>70000</WorkToMake>
@@ -291,8 +294,9 @@
 		<graphicData>
 			<texPath>Things/Weapons/SpearMelta</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
-			<!-- <drawSize>1.8</drawSize> -->
+			<drawSize>2.5</drawSize>
 		</graphicData>
+		<uiIconScale>0.4</uiIconScale>
 		<comps>
 			<li Class="WeaponSwitch.CompProperties_SwitchWeapon">
 				<weaponsToSwitch>
@@ -315,8 +319,9 @@
 		<graphicData>
 			<texPath>Things/Weapons/SpearMelta</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
-			<!-- <drawSize>1.8</drawSize> -->
+			<drawSize>2.5</drawSize>
 		</graphicData>
+		<uiIconScale>0.4</uiIconScale>
 		<relicChance>0</relicChance>
 		<statBases>
 			<WorkToMake>70000</WorkToMake>
@@ -390,8 +395,7 @@
 			<recipeUsers Inherit="false">
 				<li>GW_SM_TalonOfTheEmperor_WeaponBench</li>
 			</recipeUsers>
-		</recipeMaker>
-		<uiIconScale>1</uiIconScale>		
+		</recipeMaker>	
 		<stuffCategories Inherit="False" IsNull="True" />
 		<costList>
 			<GW_ComponentRelic>3</GW_ComponentRelic>
@@ -469,8 +473,9 @@
 		<graphicData>
 			<texPath>Things/Weapons/CastellanAxe</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
-			<!-- <drawSize>1.8</drawSize> -->
+			<drawSize>2.5</drawSize>
 		</graphicData>
+		<uiIconScale>0.4</uiIconScale>
 		<comps>
 			<li Class="WeaponSwitch.CompProperties_SwitchWeapon">
 				<weaponsToSwitch>
@@ -520,8 +525,9 @@
 			<texPath>Things/Weapons/CastellanAxe</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>Cutout</shaderType>
-			<!-- <drawSize>1.8</drawSize> -->
+			<drawSize>2.5</drawSize>
 		</graphicData>
+		<uiIconScale>0.4</uiIconScale>
 		<relicChance>0</relicChance>
 		<statBases>
 			<WorkToMake>70000</WorkToMake>
@@ -609,8 +615,9 @@
 			<texPath>Things/Weapons/WatchersAxe</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>Cutout</shaderType>
-			<!-- <drawSize>1.8</drawSize> -->
+			<drawSize>2.5</drawSize>
 		</graphicData>
+		<uiIconScale>0.4</uiIconScale>
 		<comps>
 			<li Class="WeaponSwitch.CompProperties_SwitchWeapon">
 				<weaponsToSwitch>
@@ -658,8 +665,9 @@
 		<graphicData>
 			<texPath>Things/Weapons/WatchersAxe</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
-			<!-- <drawSize>1.8</drawSize> -->
+			<drawSize>2.5</drawSize>
 		</graphicData>
+		<uiIconScale>0.4</uiIconScale>
 		<relicChance>0</relicChance>
 		<statBases>
 			<WorkToMake>70000</WorkToMake>

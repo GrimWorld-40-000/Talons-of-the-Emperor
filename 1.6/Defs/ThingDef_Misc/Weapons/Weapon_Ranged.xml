@@ -26,8 +26,9 @@
 		<graphicData>
 			<texPath>Things/Weapons/AdrathicDestructor</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
-			<!-- <drawSize>1.45</drawSize> -->
+			<drawSize>1.8</drawSize>
 		</graphicData>
+		<uiIconScale>0.5</uiIconScale>	
 		<tradeability>Buyable</tradeability>
 		<recipeMaker IsNull="True">
 			<researchPrerequisite>GW_TotE_Allarus</researchPrerequisite> 
@@ -124,8 +125,9 @@
 		<graphicData>
 			<texPath>Things/Weapons/AdrathicBoltCaliver</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
-			<!-- <drawSize>1.10</drawSize> -->
+			<drawSize>1.6</drawSize>
 		</graphicData>
+		<uiIconScale>0.5</uiIconScale>	
 		<recipeMaker>
 			<researchPrerequisite>GW_TotE_CustodesGuard</researchPrerequisite>
 			<skillRequirements>
@@ -223,8 +225,9 @@
 		<graphicData>
 			<texPath>Things/Weapons/Firepike</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
-			<!-- <drawSize>1.20</drawSize> -->
+			<drawSize>1.7</drawSize>
 		</graphicData>
+		<uiIconScale>0.5</uiIconScale>	
 		<recipeMaker>
 			<researchPrerequisite>GW_TotE_CustodesGuard</researchPrerequisite>
 			<skillRequirements>
@@ -310,8 +313,9 @@
 		<graphicData>
 			<texPath>Things/Weapons/KineticDestructor</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
-			<!-- <drawSize>1.20</drawSize> -->
+			<drawSize>1.8</drawSize>
 		</graphicData>
+		<uiIconScale>0.5</uiIconScale>
 		<recipeMaker>
 			<researchPrerequisite>GW_TotE_CustodesGuard</researchPrerequisite>
 			<skillRequirements>
@@ -394,7 +398,7 @@
 		<graphicData>
 			<texPath>Things/Projectiles/Projectile_Bulletz</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
-			<!-- <drawSize>1.80</drawSize> -->
+			<!-- <drawSize>2.0</drawSize> -->
 		</graphicData>
 		<projectile>
 			<damageDef>Bullet</damageDef>
@@ -413,8 +417,9 @@
 		<graphicData>
 			<texPath>Things/Weapons/CustodesSOS_Bolter</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
-			<!-- <drawSize>1.10</drawSize> -->
+			<drawSize>1.0</drawSize>
 		</graphicData>
+		<uiIconScale>1.0</uiIconScale>	
 		<recipeMaker>
 			<researchPrerequisite>GW_TotE_CustodesGuard</researchPrerequisite>
 			<skillRequirements>
