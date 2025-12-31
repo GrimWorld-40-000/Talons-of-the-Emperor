@@ -424,6 +424,14 @@
                 <isUnifiedApparel>true</isUnifiedApparel>
 				<hideHead>false</hideHead>
             </li>
+			<li Class="GW_ApparelRestriction.DefModExtension_ApparelRestriction">
+				<isRestrictGender>True</isRestrictGender>
+				<gender>Female</gender>
+				<isRestrictStat>true</isRestrictStat>
+				<statDef>PsychicSensitivity</statDef>
+				<reqMode>Equal</reqMode>
+				<value>0</value>
+			</li>
 		</modExtensions>
     </ThingDef>	
 	

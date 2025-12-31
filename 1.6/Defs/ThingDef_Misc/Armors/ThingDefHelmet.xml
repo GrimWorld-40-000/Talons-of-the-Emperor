@@ -671,6 +671,8 @@
 			</drawData>
 		</apparel>
 		<equippedStatOffsets Inherit="False">
+			<SocialImpact>-1</SocialImpact>
+			<NegotiationAbility>-1</NegotiationAbility>
 			<ShootingAccuracyPawn>1</ShootingAccuracyPawn>
 			<ToxicEnvironmentResistance>0.75</ToxicEnvironmentResistance>
 			<DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
@@ -715,6 +717,16 @@
 				<compClass>SaveOurShip2.CompEVA</compClass>
 			</li>
 		</comps>
+		<modExtensions>
+			<li Class="GW_ApparelRestriction.DefModExtension_ApparelRestriction">
+				<isRestrictGender>True</isRestrictGender>
+				<gender>Female</gender>
+				<isRestrictStat>true</isRestrictStat>
+				<statDef>PsychicSensitivity</statDef>
+				<reqMode>Equal</reqMode>
+				<value>0</value>
+			</li>
+		</modExtensions>
 	</ThingDef>
 	
 		<ThingDef ParentName="GW_TotEHelmetBase">
@@ -750,6 +762,8 @@
 			</drawData>
 		</apparel>
 		<equippedStatOffsets>
+			<SocialImpact>-1</SocialImpact>
+			<NegotiationAbility>-1</NegotiationAbility>
 			<ShootingAccuracyPawn>1</ShootingAccuracyPawn>
 			<ToxicEnvironmentResistance>0.75</ToxicEnvironmentResistance>
 			<DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
@@ -794,6 +808,16 @@
 				<compClass>SaveOurShip2.CompEVA</compClass>
 			</li>
 		</comps>
+		<modExtensions>
+			<li Class="GW_ApparelRestriction.DefModExtension_ApparelRestriction">
+				<isRestrictGender>True</isRestrictGender>
+				<gender>Female</gender>
+				<isRestrictStat>true</isRestrictStat>
+				<statDef>PsychicSensitivity</statDef>
+				<reqMode>Equal</reqMode>
+				<value>0</value>
+			</li>
+		</modExtensions>
 	</ThingDef>
 	
 	<ThingDef ParentName="GW_TotEHelmetBase">
