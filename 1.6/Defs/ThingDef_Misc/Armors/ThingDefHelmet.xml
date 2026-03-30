@@ -127,7 +127,7 @@
 		</recipeMaker>
 		<comps>
 			<li Class="GW4KArmor.CompProperties_TriColorMask">
-				<maskCount>2</maskCount>
+				<!-- <maskCount>2</maskCount> -->
 				<palettePresets>GW_CS_HelmetChapterPalettesCustodes</palettePresets>
 				<defaultPalette>
 					<colorA>(250, 176, 67)</colorA>
@@ -201,7 +201,7 @@
 		</recipeMaker>
 		<comps>
 			<li Class="GW4KArmor.CompProperties_TriColorMask">
-				<maskCount>2</maskCount>
+				<!-- <maskCount>2</maskCount> -->
 				<palettePresets>GW_CS_HelmetChapterPalettesCustodes</palettePresets>
 				<defaultPalette>
 					<colorA>(250, 176, 67)</colorA>
@@ -276,7 +276,7 @@
 		</recipeMaker>
 		<comps>
 			<li Class="GW4KArmor.CompProperties_TriColorMask">
-				<maskCount>2</maskCount>
+				<!-- <maskCount>2</maskCount> -->
 				<palettePresets>GW_CS_HelmetChapterPalettesCustodes</palettePresets>
 				<defaultPalette>
 					<colorA>(250, 176, 67)</colorA>
@@ -342,7 +342,7 @@
 		</recipeMaker>
 		<comps>
 			<li Class="GW4KArmor.CompProperties_TriColorMask">
-				<maskCount>2</maskCount>
+				<!-- <maskCount>2</maskCount> -->
 				<palettePresets>GW_CS_HelmetChapterPalettesCustodes</palettePresets>
 				<defaultPalette>
 					<colorA>(250, 176, 67)</colorA>
@@ -424,7 +424,7 @@
 		</recipeMaker>
 		<comps>
 			<li Class="GW4KArmor.CompProperties_TriColorMask">
-				<maskCount>1</maskCount>
+				<!-- <maskCount>1</maskCount> -->
 				<palettePresets>GW_CS_HelmetChapterPalettesCustodes</palettePresets>
 				<defaultPalette>
 					<colorA>(250, 176, 67)</colorA>
@@ -496,7 +496,7 @@
 		</recipeMaker>
 		<comps>
 			<li Class="GW4KArmor.CompProperties_TriColorMask">
-				<maskCount>2</maskCount>
+				<!-- <maskCount>2</maskCount> -->
 				<palettePresets>GW_CS_HelmetChapterPalettesCustodes</palettePresets>
 				<defaultPalette>
 					<colorA>(250, 176, 67)</colorA>
@@ -556,7 +556,7 @@
 		</recipeMaker>
 		<comps>
 			<li Class="GW4KArmor.CompProperties_TriColorMask">
-				<maskCount>2</maskCount>
+				<!-- <maskCount>2</maskCount> -->
 				<palettePresets>GW_CS_HelmetChapterPalettesCustodes</palettePresets>
 				<defaultPalette>
 					<colorA>(250, 176, 67)</colorA>
@@ -634,7 +634,7 @@
 		</recipeMaker>
 		<comps>
 			<li Class="GW4KArmor.CompProperties_TriColorMask">
-				<maskCount>2</maskCount>
+				<!-- <maskCount>2</maskCount> -->
 				<palettePresets>GW_CS_HelmetChapterPalettesCustodes</palettePresets>
 				<defaultPalette>
 					<colorA>(250, 176, 67)</colorA>
@@ -713,7 +713,7 @@
 		</recipeMaker>
 		<comps>
 			<li Class="GW4KArmor.CompProperties_TriColorMask">
-				<maskCount>1</maskCount>
+				<!-- <maskCount>1</maskCount> -->
 				<palettePresets>GW_CS_HelmetChapterPalettesCustodes</palettePresets>
 				<defaultPalette>
 					<colorA>(250, 176, 67)</colorA>
@@ -804,7 +804,7 @@
 		</recipeMaker>
 		<comps>
 			<li Class="GW4KArmor.CompProperties_TriColorMask">
-				<maskCount>1</maskCount>
+				<!-- <maskCount>1</maskCount> -->
 				<palettePresets>GW_CS_HelmetChapterPalettesCustodes</palettePresets>
 				<defaultPalette>
 					<colorA>(250, 176, 67)</colorA>
@@ -894,7 +894,7 @@
 		</recipeMaker>
 		<comps>
 			<li Class="GW4KArmor.CompProperties_TriColorMask">
-				<maskCount>2</maskCount>
+				<!-- <maskCount>2</maskCount> -->
 				<palettePresets>GW_CS_HelmetChapterPalettesCustodes</palettePresets>
 				<defaultPalette>
 					<colorA>(250, 176, 67)</colorA>
