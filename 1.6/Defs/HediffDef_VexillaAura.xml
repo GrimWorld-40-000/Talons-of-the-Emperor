@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<ThingDef ParentName="MoteBase">
+		<defName>GW40k_SS_VexillaAuraMote</defName>
+		<thingClass>MoteAttached</thingClass>
+		<altitudeLayer>LightingOverlay</altitudeLayer>
+		<drawOffscreen>true</drawOffscreen>
+		<mote>
+			<solidTime>9999999</solidTime>
+			<needsMaintenance>true</needsMaintenance>
+		</mote>
+		<graphicData>
+			<graphicClass>Graphic_Mote</graphicClass>
+			<texPath>Effects/Aura</texPath>
+			<shaderType>MoteGlow</shaderType>
+			<color>(32, 17, 0)</color>
+			<drawSize>16</drawSize>
+		</graphicData>
+	</ThingDef>
+
+	<HediffDef>
+		<defName>GW40k_SS_VexillaAura</defName>
+		<label>vexilla aura</label>
+		<description>This pawn carries a Magisterium Vexilla, projecting an inspirational aura across the battlefield.</description>
+		<hediffClass>HediffWithComps</hediffClass>
+		<isBad>false</isBad>
+		<initialSeverity>1</initialSeverity>
+		<maxSeverity>1</maxSeverity>
+		<comps>
+			<li Class="HediffCompProperties_GiveHediffsInRange">
+				<range>8</range>
+				<mote>GW40k_SS_VexillaAuraMote</mote>
+				<hideMoteWhenNotDrafted>true</hideMoteWhenNotDrafted>
+				<targetingParameters>
+					<canTargetBuildings>false</canTargetBuildings>
+					<canTargetAnimals>false</canTargetAnimals>
+					<canTargetMechs>false</canTargetMechs>
+					<canTargetSubhumans>false</canTargetSubhumans>
+				</targetingParameters>
+				<hediff>GW40k_SS_InspiredByVexilla</hediff>
+				<initialSeverity>0.25</initialSeverity>
+				<onlyPawnsInSameFaction>true</onlyPawnsInSameFaction>
+			</li>
+		</comps>
+		<stages>
+			<li>
+				<minSeverity>1</minSeverity>
+			</li>
+		</stages>
+	</HediffDef>
+
+	<HediffDef>
+		<defName>GW40k_SS_InspiredByVexilla</defName>
+		<label>inspired by vexilla</label>
+		<description>The Magisterium Vexilla rallies nearby warriors to greater feats of battle.</description>
+		<hediffClass>HediffWithComps</hediffClass>
+		<isBad>false</isBad>
+		<initialSeverity>0.25</initialSeverity>
+		<maxSeverity>1</maxSeverity>
+		<comps>
+			<li Class="HediffCompProperties_Disappears">
+				<showRemainingTime>false</showRemainingTime>
+			</li>
+		</comps>
+		<stages>
+			<li>
+				<statOffsets>
+					<MoveSpeed>0.10</MoveSpeed>
+					<MeleeHitChance>1</MeleeHitChance>
+				</statOffsets>
+			</li>
+		</stages>
+	</HediffDef>
+</Defs>

@@ -253,7 +253,7 @@
 		<label>Castellan Plate shoulder pads</label>
 		<description>The shoulder pads of the Castellan Plate, the armor of Trajann Valoris. To symbolize his leadership of the Adeptus Custodes, the right shoulder bears a giant, auramite depiction of a lion's head. \n\nEven before becoming the Captain-General, Trajann Valoris was an exceptional man. As an Allarus Custodian, he was the first person to have ever won the Blood Games twice - had he been an enemy, the Emperor would have met an untimely demise twice over.</description>
 		<graphicData>
-			<texPath>Things/CustodesArmors/Castellan Plate/Shoulders/CastellanPlate_sp_Male_south</texPath>
+			<texPath>Things/CustodesArmors/CastellanPlate/Shoulders/CastellanPlate_sp_Male_south</texPath>
 			<drawSize>1</drawSize>
 		</graphicData>
 		<recipeMaker>
@@ -283,7 +283,7 @@
 			<HP_Auramite>30</HP_Auramite>
 		</costList>
 		<apparel>
-			<wornGraphicPath>Things/CustodesArmors/Castellan Plate/Shoulders/CastellanPlate_sp</wornGraphicPath>
+			<wornGraphicPath>Things/CustodesArmors/CastellanPlate/Shoulders/CastellanPlate_sp</wornGraphicPath>
 			<tags>
 				<li>GW_Castellan</li>
 			</tags>			
