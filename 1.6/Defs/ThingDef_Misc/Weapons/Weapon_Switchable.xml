@@ -585,10 +585,6 @@
 					</li>
 				</weaponsToSwitch>
 			</li>
-			
-			<li Class="CompProperties_Biocodable">
-				<biocodeOnEquip>True</biocodeOnEquip>
-			</li>
 		</comps>
 	</ThingDef>
 	<ThingDef ParentName="BaseBullet">
@@ -724,10 +720,6 @@
 						<weapon>GW_TotE_WatchersAxe</weapon>
 					</li>
 				</weaponsToSwitch>
-			</li>
-			
-			<li Class="CompProperties_Biocodable">
-				<biocodeOnEquip>True</biocodeOnEquip>
 			</li>
 		</comps>
 	</ThingDef>

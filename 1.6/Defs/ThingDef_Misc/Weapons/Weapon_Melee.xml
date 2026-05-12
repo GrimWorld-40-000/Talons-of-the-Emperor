@@ -204,11 +204,7 @@
 		<equippedAngleOffset>45</equippedAngleOffset>
 		<comps>
 			<li Class="GW40kHediffAura.CompProperties_EquippedHediffAura">
-				<ownerFactionHediff>GW40k_SS_InspiredByVexilla</ownerFactionHediff>
-				<severityPerTrigger>0.25</severityPerTrigger>
-				<tickInterval>250</tickInterval>
-				<radius>8</radius>
-				<affectWearer>true</affectWearer>
+				<wearerHediff>GW40k_SS_VexillaAura</wearerHediff>
 			</li>
 		</comps>
 		<modExtensions>
