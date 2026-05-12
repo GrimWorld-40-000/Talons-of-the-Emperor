@@ -278,7 +278,7 @@
 		<label>Castellan Plate</label>
         <description>A replica of the Castellan Plate, an ancient and legendary suit of Custodian Power Armor. The auramite armor plating can shrug off almost any threat (especially with the Refraction Field reinforcement provided by the Auramite Halo device), and the lion-hide cloak is strengthened with adamantium thread - it flows like cloth, but cannot be pierced or cut by any normal weapon. \n\nThe true Castellan Plate is worn by Trajann Valoris, the Captain-General of the Adeptus Custodes. Unusually for a Custodian, he believed in offensive defense - sallying forth to destroy threats to the Imperium before they could threaten the Throneworld. \n\nHe rose to power during the Years of Madness, a crisis on Terra that saw two successive Captain-Generals dead or gone, a massive spike in dangerous cultist activity, and a widespread maddening of servitors in the Dark Cells that forced wholesale euthanization.</description>
 		<graphicData>
-			<texPath>Things/CustodesArmors/Castellan Plate/CastellanPlate_torso_Male_south</texPath>
+			<texPath>Things/CustodesArmors/CastellanPlate/CastellanPlate_torso_Male_south</texPath>
 		</graphicData>
 		<recipeMaker>
             <researchPrerequisite>GW_TotE_Castellan</researchPrerequisite>
@@ -310,7 +310,7 @@
 			<PawnBeauty>50</PawnBeauty>
 		</equippedStatOffsets>
 		<apparel>
-			<wornGraphicPath>Things/CustodesArmors/Castellan Plate/CastellanPlate_torso</wornGraphicPath>
+			<wornGraphicPath>Things/CustodesArmors/CastellanPlate/CastellanPlate_torso</wornGraphicPath>
 			<tags>
 				<li>GW_Castellan</li>
 			</tags>

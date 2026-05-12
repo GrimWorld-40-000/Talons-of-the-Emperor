@@ -219,14 +219,14 @@
 		<label>Castellan Plate helmet</label>
 		<description>An auramite Power Armor helmet supposed to be worn with the Castellan Plate. While it is typically not worn, as the Captain-General usually shows his face to inspire other Custodians, it can still provide excellent protection against all threats. \n\nAfter serving in the Allarus Terminators, a young Trajann Valoris was made a Companion - the three hundred elite Custodians assigned as the Emperor's personal guard. However, due to his desire to take the initiative against the Great Enemy, he lasted only twenty-two years before becoming a Shield-Captain - and, a few centuries later, rising to the rank of Captain-General.</description>
 		<graphicData>
-			<texPath>Things/CustodesArmors/Castellan Plate/Helmets/CastellanPlate_helmet_south</texPath>
+			<texPath>Things/CustodesArmors/CastellanPlate/Helmets/CastellanPlate_helmet_south</texPath>
 		</graphicData>
-		<uiIconPath>Things/CustodesArmors/Castellan Plate/Helmets/CastellanPlate_helmet_south</uiIconPath>
+		<uiIconPath>Things/CustodesArmors/CastellanPlate/Helmets/CastellanPlate_helmet_south</uiIconPath>
 		<apparel>
 			<tags>
 				<li>GW_Castellan</li>
 			</tags>
-			<wornGraphicPath>Things/CustodesArmors/Castellan Plate/Helmets/CastellanPlate_helmet</wornGraphicPath>
+			<wornGraphicPath>Things/CustodesArmors/CastellanPlate/Helmets/CastellanPlate_helmet</wornGraphicPath>
 			<drawData>
 				<dataEast>
 					<offset>(-0.025, 0, 0.45)</offset>

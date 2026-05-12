@@ -108,7 +108,7 @@
 			<texPath>Things/Weapons/SpearBolter</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>Cutout</shaderType>
-			<drawSize>2.3</drawSize>
+			<drawSize>2.0</drawSize>
 		</graphicData>
 		<uiIconScale>0.4</uiIconScale>	
 		<comps>
@@ -133,7 +133,7 @@
 			<texPath>Things/Weapons/SpearBolter</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>Cutout</shaderType>
-			<drawSize>2.3</drawSize>
+			<drawSize>2.0</drawSize>
 		</graphicData>
 		<uiIconScale>0.4</uiIconScale>	
 		<relicChance>0</relicChance>
@@ -201,7 +201,7 @@
 			<texPath>Things/Weapons/SpearAdrathic</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>Cutout</shaderType>
-			<drawSize>2.5</drawSize>
+			<drawSize>2.0</drawSize>
 		</graphicData>
 		<comps>
 			<li Class="WeaponSwitch.CompProperties_SwitchWeapon">
@@ -224,7 +224,7 @@
 		<graphicData>
 			<texPath>Things/Weapons/SpearAdrathic</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
-			<drawSize>2.5</drawSize>
+			<drawSize>2.0</drawSize>
 		</graphicData>
 		<uiIconScale>0.4</uiIconScale>	
 		<relicChance>0</relicChance>
@@ -294,7 +294,7 @@
 		<graphicData>
 			<texPath>Things/Weapons/SpearMelta</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
-			<drawSize>2.5</drawSize>
+			<drawSize>2.0</drawSize>
 		</graphicData>
 		<uiIconScale>0.4</uiIconScale>
 		<comps>
@@ -319,7 +319,7 @@
 		<graphicData>
 			<texPath>Things/Weapons/SpearMelta</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
-			<drawSize>2.5</drawSize>
+			<drawSize>2.0</drawSize>
 		</graphicData>
 		<uiIconScale>0.4</uiIconScale>
 		<relicChance>0</relicChance>
@@ -473,7 +473,7 @@
 		<graphicData>
 			<texPath>Things/Weapons/CastellanAxe</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
-			<drawSize>2.5</drawSize>
+			<drawSize>2.0</drawSize>
 		</graphicData>
 		<uiIconScale>0.4</uiIconScale>
 		<comps>
@@ -525,7 +525,7 @@
 			<texPath>Things/Weapons/CastellanAxe</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>Cutout</shaderType>
-			<drawSize>2.5</drawSize>
+			<drawSize>2.0</drawSize>
 		</graphicData>
 		<uiIconScale>0.4</uiIconScale>
 		<relicChance>0</relicChance>
@@ -615,7 +615,7 @@
 			<texPath>Things/Weapons/WatchersAxe</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>Cutout</shaderType>
-			<drawSize>2.5</drawSize>
+			<drawSize>2.0</drawSize>
 		</graphicData>
 		<uiIconScale>0.4</uiIconScale>
 		<comps>
@@ -665,7 +665,7 @@
 		<graphicData>
 			<texPath>Things/Weapons/WatchersAxe</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
-			<drawSize>2.5</drawSize>
+			<drawSize>2.0</drawSize>
 		</graphicData>
 		<uiIconScale>0.4</uiIconScale>
 		<relicChance>0</relicChance>
